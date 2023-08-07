@@ -19,4 +19,4 @@ is_odd function
 fix_it function
     if moves is true and should_move is true return no problem but if should_move is false return duct tape
     but if moves is false and should_move is true return wd-40 and if both are false return no problem
-for the loops it is creating lists without writing them out continuously
+for the loops it is creating lists without writing them out continuously 

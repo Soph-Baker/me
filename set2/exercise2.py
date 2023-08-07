@@ -24,7 +24,7 @@ def set2exersise2(): # this is semi-right
     wordArray[3] = wordArray[3].upper()
     secret_word="".join(wordArray)
     print(secret_word)
-    return secret_word
+    return secret_word 
 
 
 if __name__ : "__main__"

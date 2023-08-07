@@ -20,7 +20,7 @@ print("hello! Let's get started")  # it printed "hello! Let's get started"
 some_words = ["what", "does", "this", "line", "do", "?"]
 
 # i have no idea what this will do
-for word in some_words:
+for word in some_words: 
     print(word)
 # printed each word in the list on a seperate line
 
